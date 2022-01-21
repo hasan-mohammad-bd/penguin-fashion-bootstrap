@@ -3,6 +3,7 @@
 
 body {
     font-family: 'Roboto', sans-serif !important;
+    color:#363958 !important;
 }
 
 .navbar ul li {
@@ -10,12 +11,15 @@ body {
     font-weight: 500;
 }
 
-.showcase h1 {
+.showcase h1,h3 {
     font-family: 'Bebas Neue', cursive !important;
     font-size: 80px;
     
 }
 
+.top-mergin {
+    margin-top: 6.25rem;
+}
 /* custome color */
 
 .penguin-green {
@@ -26,6 +30,14 @@ body {
     color: #FABE4C !important;
 }
 
+.yellow-color-bg {
+    background-color:#FABE4C ;
+}
+
 .blue-color-text {
     color:#363958 !important;
+}
+
+.grey {
+    background-color: #F1F1F1;
 }
